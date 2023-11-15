@@ -1,0 +1,45 @@
+/* comment you name
+
+goes here*/
+body
+{
+  /*  background-color: greenyellow; */
+  /*background-image: linear-gradient(pink, purple); */
+  background-image: radial-gradient(blue,grey);
+  background-repeat: no-repeat;
+}
+
+p
+{
+    text-align: center;
+    font-size: 50px;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-style: italic;
+    font-weight: bold;
+    color:coral;
+    text-decoration:dashed;
+    text-decoration-color: red;
+}
+
+nav
+{
+    background-color: yellow;
+}
+#buttonsJC {
+    background-color: deepskyblue;
+    color:hotpink;
+}
+button
+{
+    color:darkolivegreen;
+    background-color: antiquewhite;
+    border-width: 20px;
+    height: 100px;
+    width: 150px;
+    border-radius: 50px; 
+}
+footer
+{
+    background-color: darkslateblue;
+    color:aliceblue;
+}
