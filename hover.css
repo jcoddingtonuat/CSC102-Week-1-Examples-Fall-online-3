@@ -1,0 +1,10 @@
+button {
+    background-color:blueviolet;
+    color:black
+}
+button:hover {
+    background-color: limegreen;
+    color:white;
+    padding: 16px 32px;
+    transition-duration: 0.2s;
+}
